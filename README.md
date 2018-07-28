@@ -13,3 +13,12 @@ All in all I guess it takes me a while to complete this project (currently worki
 * Specify own file types (needs specification about where the metadata is and how large)
 * Maybe ports (with UI) for Win/MacOS/Linux
 
+##### Command examples
+
+```
+metaclean <directory>
+metaclean <file1> <file2> <file3>
+metaclean <directory> --recursive
+metaclean <directory> --copy
+metaclean <directory> --copy --output <output directory>
+```

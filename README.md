@@ -1,5 +1,5 @@
 # MetaClean
-[Under Construction] CLI tool for effectively cleaning of a metadata in essentialy every file type 
+[Under Construction] CLI tool for effectively cleaning of a metadata in essentially every file type 
 
 
 All in all I guess it takes me a while to complete this project (currently working on my bachelor thesis), but I created this repo, so I wouldn't forget
